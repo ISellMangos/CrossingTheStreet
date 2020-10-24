@@ -1,0 +1,37 @@
+Game Programming
+
+Short Description:
+The game that I had in mind is a pretty simple game. The player (A snake) will have an objective to cross a street with multiple lanes while avoiding the vehicules.
+Randomly, on each lane, a vehicule will spawn moving on a straight line from one side of the screen, to the other.
+The player will start with 3 lives and will lose one when they touch a vehicule. 
+Everytime they lose a life, they will go back to spawn and start over. 
+
+Characters and goals:
+
+Snake: The snake is what the player will control. He will be able to move up, down, left and right depending on the keys pressed down. 
+The objective of the snake is to successfully get to the other side of the street while evading the vehicules passing by.
+
+Vihecules: The vihecules will be NPCs. They will spawn randomly on one side of the screen and move is a straight line to the other side. 
+When they reach the other side, the will disappear. 
+The goal of the vehicules is to run over the snake and prevent it from reaching the other side.
+
+Win Conditions: 
+To win the game, the player must successfully reach the other side of the street with at least one life left.
+
+Lose Conditions:
+The moment the player reaches zero lives, they lose the game.
+
+Progression of levels:
+I want there to be three levels in total. With it getting increasingly difficult the higher you are. 
+The higher the level, the faster the vehicules will move and more lanes will be on the street.
+
+Source of inspiration: 
+For my source of inspiration, it is a game called "crossy road". It a mobile game that I use to play when I was younger with the same concept of this project.
+I wanted to make a game that was not to complicated with the knowledge I have now.
+
+Skills/ Interests in a teammate:
+People who already knows the game 'crossy road'.
+People with good communication skills and creativity. 
+It would also be nice if they were good at coding and hard working.
+ 
+  
